@@ -34,7 +34,7 @@ Built with Python, aiogram, and SQLite.
 
 ```bash
 git clone https://github.com/tikoarm/python-finance-log.git
-cd FinanceLog
+cd python-finance-log
 ```
 
 2. Install dependencies:
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 3. Create a `.env` file in the project root:
 
 ```dotenv
-TG_TOKEN=your-telegram-bot-token
+BOT_TOKEN=your-telegram-bot-token
 ```
 
 4. Run the bot:
